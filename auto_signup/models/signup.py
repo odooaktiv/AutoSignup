@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from odoo import models, api
+from openerp import models, api
 
 class SignupEnable(models.Model):
     _name = 'signup.enable'

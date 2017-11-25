@@ -3,7 +3,7 @@ Odoo auto signup
 
 Version
 --------
-Odoo v10.0 for master branch
+Odoo v9.0
 
 
 Configuration

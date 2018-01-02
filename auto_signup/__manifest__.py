@@ -21,5 +21,7 @@
     'data': [
 	'views/signup_views.xml'
     ],
+
+    'images':  ['static/description/banner.jpg'],
     'application': True,
 }
